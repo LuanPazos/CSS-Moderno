@@ -1,3 +1,4 @@
 {
-  "workbench.colorTheme": "Ocean Space"
+  "workbench.colorTheme": "Ocean Space",
+  "svg.preview.background": "editor"
 }

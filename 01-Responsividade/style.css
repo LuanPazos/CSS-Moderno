@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(25, 43, 43);
+  color: aliceblue;
+  font-size: 1.2rem;
+}
+
+.img-wrapper{
+  background: linear-gradient(rgba(0,0,0,0.1), rgb(0, 0, 0));
+  
+}
+
+.img-content{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
